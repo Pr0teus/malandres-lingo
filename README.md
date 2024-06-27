@@ -21,7 +21,7 @@ Para alterar o dicionário, altere o arquivo dict/persona1.json com palavras que
 
 ## Este repositório não será mantido, não é recomendado utilizá-lo.
 
-## Testado:
+## Testado 10/jun/2024:
 - [X] Bate-papos com input/textarea field
 - [X] Google
 - [X] Instagram
